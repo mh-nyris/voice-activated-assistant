@@ -1,0 +1,7 @@
+numpy
+pydub
+gtts
+openai
+PyQt5
+sounddevice
+scipy
