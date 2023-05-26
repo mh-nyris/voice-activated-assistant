@@ -1,6 +1,0 @@
-export OPENAI_API_KEY='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'
-openai.api_key = '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'  # Replace with your OpenAI key
-
-
-openai.organization = "org-iaAwuprljYaoOoSAlUNCnaJQ"
-openai.api_key = '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'  # Replace with your OpenAI key
